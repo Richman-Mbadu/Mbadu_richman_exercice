@@ -1,0 +1,23 @@
+====== RAPPORT SYSTEME ======
+
+Nom de la machine:
+Richman
+
+Système d'exploitation:
+Windows 10
+
+Adresse IP:
+192.168.56.1
+
+Espace disque:
+Total: 273.73 GB
+Utilisé: 225.87 GB
+Libre: 47.87 GB
+
+Utilisation mémoire :
+Total: 11.93 GB
+Utilisé: 9.90 GB
+Disponible: 2.02 GB
+
+Utilisateurs connectés :
+Richman

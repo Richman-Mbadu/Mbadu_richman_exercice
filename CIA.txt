@@ -1,0 +1,35 @@
+Question_27
+
+Reponses
+- Il s'agit de la confidentialité
+- Le pourquoi?: Seuls les utilisateurs internes sont autorisés à ouvrir le dossier, c'est ça la confidentialité (Donc les 
+données ne sont sont pas sécurisées correctement
+- y'a plusieurs risques, Mais pour moi le pls important est la fuite des données donc le stagiaire peut partager les 
+informations sensibles 
+- les 4 solutions possibles:
+Mettre les mots de passe un peu plus robuste
+Chiffrer les informations sensibles
+Donner l'accés uniquement au managere
+detection des accès suspects
+
+Questions_28
+
+- Il s'agit de l'intégrité
+- Avec l'intégrité les informations doivent restées correctes, exactes, Modifiable qu'avec autorisation
+- les risques : pertes de credibilité, la désorganisations des stocks
+- Les 4 solutions: 
+Enregistrement de toutes les modifications
+Savoir qui a changées les données et ces quand ces données ont été changées
+Permettre que seules les personnes autorisées peuvent modifier les données
+verification des donnés a tout moment
+
+Question_29
+
+- Il s'agit de la disponibilté
+- Le site doit être disponible à tout moment sans interruption
+- Les Risques: Perte de données en cours, perte des confiances, manque des ventes, Mauvaise image pour l'entreprise
+- Les solutions possibles:
+Répartir le trafic sur plusieurs serveurs
+Protection contre les attaques DDoS
+Avoir plusieurs serveurs de secours
+Surveillance du système en temps réel
