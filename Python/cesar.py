@@ -28,12 +28,12 @@ def dechiffrer_cesar_accents(texte, decalage):
 
 # Exemple d'utilisation
 if __name__ == "__main__":
-    message = "Ça va être décrypté à Noël, café inclus!"
-    cle = 3
+    message = input("Veuillez entrer le message")
+    cle = int(input("Entrez l'indice(ROT)")
 
     encrypte = chiffrer_cesar_accents(message, cle)
     decrypte = dechiffrer_cesar_accents(encrypte, cle)
 
-    print(f"Message original : {message}")
+    # print(f"Message original : {message}")
     print(f"Message chiffré  : {encrypte}")
     print(f"Message déchiffré: {decrypte}")
